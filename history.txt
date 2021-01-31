@@ -1,0 +1,19 @@
+grep 
+vi &
+overkill 
+gedit 
+firefox 
+jobs 
+overkill 
+cd -
+cd -
+cd -
+cd -
+geddit &
+gedit &
+jobs 
+kjob 1
+jobs 
+fg 1
+jobs 
+ls 
